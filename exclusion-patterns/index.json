@@ -21,6 +21,6 @@
         "exclusionPatterns": ["*test", "./test/*", "./logs"]
     },
     "backend": {
-        "imageid": "nodejs:12"
+        "imageid": "fsnotify"
     }
 }
