@@ -21,6 +21,6 @@
         "exclusionPatterns": ["*test", "./test/*", "./logs"]
     },
     "backend": {
-        "imageid": "fsnotify"
+        "imageid": "golang"
     }
 }
